@@ -1,4 +1,4 @@
-# Bash Learning
+# Bash-Learning
 
 This repository contains my Bash scripting exercises and practice projects as I learn Linux shell scripting.
 
